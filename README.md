@@ -158,6 +158,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Dify](https://github.com/langgenius/dify) ![](https://img.shields.io/github/stars/langgenius/dify.svg?style=social) - Open-source framework aims to enable developers (and even non-developers) to quickly build useful applications based on large language models, ensuring they are visual, operable, and improvable.
 - [Doku](https://docs.dokulabs.com/) ![](https://img.shields.io/github/stars/dokulabs/doku.svg?style=social) - An open-source LLM Observability platform streamlining the monitoring of LLM applications with just two lines of code. It provides valuable insights into token usage and user engagement, tracks API usage for providers like OpenAI, and facilitates easy data export to observability platforms like Grafana and DataDog.
 - [Dstack](https://github.com/dstackai/dstack) ![](https://img.shields.io/github/stars/dstackai/dstack.svg?style=social) - Cost-effective LLM development in any cloud (AWS, GCP, Azure, Lambda, etc).
+- [DSPy](https://github.com/stanfordnlp/dspy) ![](https://img.shields.io/github/stars/stanfordnlp/dspy.svg?style=social) - a framework for programming foundation models and algorithmically optimizing LM prompts and weights, especially when LMs are used one or more times within a pipeline.
 - [Embedchain](https://github.com/embedchain/embedchain) ![](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
 - [Fiddler AI](https://www.fiddler.ai/llmops) - Evaluate, monitor, analyze, and improve MLOps and LLMOps from pre-production to production.
 - [Glide](https://github.com/EinStack/glide) ![](https://img.shields.io/github/stars/einstack/glide.svg?style=social) - Cloud-Native LLM Routing Engine. Improve LLM app resilience and speed.
@@ -285,7 +286,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 
 ## Visualization
 
-- [Fiddler AI](https://github.com/fiddler-labs) - Rich dashboards, reports, and UMAP to perform root cause analysis, pinpoint problem areas, like correctness, safety, and privacy issues, and improve LLM outcomes. 
+- [Fiddler AI](https://github.com/fiddler-labs) ![](https://img.shields.io/github/stars/fiddler-labs.svg?style=social) - Rich dashboards, reports, and UMAP to perform root cause analysis, pinpoint problem areas, like correctness, safety, and privacy issues, and improve LLM outcomes. 
 - [Maniford](https://github.com/uber/manifold) ![](https://img.shields.io/github/stars/uber/manifold.svg?style=social) - A model-agnostic visual debugging tool for machine learning.
 - [netron](https://github.com/lutzroeder/netron) ![](https://img.shields.io/github/stars/lutzroeder/netron.svg?style=social) - Visualizer for neural network, deep learning, and machine learning models.
 - [OpenOps](https://github.com/ThePlugJumbo/openops) ![](https://img.shields.io/github/stars/theplugjumbo/openops.svg?style=social) - Bring multiple data streams into one dashboard.
